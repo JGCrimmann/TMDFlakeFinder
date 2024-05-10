@@ -37,6 +37,6 @@ and provide the path of the newly created venv.
 8. One might also need to run the following:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 and confirm with ’Y’
-9. Install all required packages in the venv with the requirement.txt file:
+9. Install all required packages in the venv with the requirements.txt file:
 pip install -r requirements.txt
 10. Restart Spyder to apply the changes after setting up the venv and its packages.
