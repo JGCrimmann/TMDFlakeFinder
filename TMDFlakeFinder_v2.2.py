@@ -1,3 +1,12 @@
+"""TMDFlakeFinder
+
+Authors: Juri G. Crimmann, Moritz N. Junker, Yannik M. Glauser, Nolan Lassaline, Gabriel Nagamine, and David J. Norris
+Date: 2024 May 10th
+License: CC BY-NC-SA 4.0
+Description: The program automatically identifies TMD flakes.
+
+"""
+
 from PyQt5.QtWidgets import *
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import (Qt,
