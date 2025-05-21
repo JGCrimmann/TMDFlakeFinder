@@ -3,6 +3,8 @@ Automation script for identifying TMD flakes.
 
 It was used for the following publication: 
 
+J. G. Crimmann, M. N. Junker, Y. M. Glauser, N. Lassaline, G. Nagamine, D. J. Norris, High-Throughput Optical Identification and Statistical Analysis of Atomically Thin Semiconductors. Adv. Optical Mater. 2025, 2500150. https://doi.org/10.1002/adom.202500150
+
 ## Attribution
 If the code is used in any way, the publication must be cited. 
 
